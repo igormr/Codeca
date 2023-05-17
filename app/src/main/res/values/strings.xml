@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Codeca</string>
+    <string name="ajudar">O que Podemos Ajudar?</string>
+    <string name="nova">Nova Solicitação</string>
+    <string name="consultar">Consultar Solicitações</string>
+    <string name="edit_usuario">Usuário</string>
+    <string name="edit_senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="contanova">Não tenho uma conta ainda?</string>
+    <string name="cadastrar">Cadastrar-se</string>
+    <string name="text_ou">ou</string>
+    <string name="facasolicitacao">Faça sua Solicitação</string>
+    <string name="nome">Nome Completo:</string>
+    <string name="email">E-mail:</string>
+    <string name="senha">Senha:</string>
+    <string name="cpf">CPF:</string>
+    <string name="contato">Contato:</string>
+    <string name="facacadastro">Faça seu Cadastro:</string>
+
+
+
+
+</resources>

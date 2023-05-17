@@ -1,0 +1,22 @@
+1 Serviços
+1-1 Outros serviços
+1-1-1 Roçada
+1-1-2  Instalação de contanainer
+
+
+1-2 - Coleta
+1-2-1 Organica
+1-2-2 Seletivo
+1-2-3 Pneus
+1-2-4 Oleo
+1-2-5 Moveis/eletronicos
+
+2 - Denuncia
+2-1 Denuncia Codeca
+2-1-1 Dano a calçada
+2-1-1 Coleta de lixo
+
+2-2 Denuncia Terceiros
+2-2-1 Queima de lixo
+2-1-2 Queima de containers
+2-2 Danos 
