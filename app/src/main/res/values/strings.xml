@@ -21,6 +21,15 @@
     <string name="enviarfoto">      Enviar foto relacionado a solicitação:</string>
     <string name="observacoes">     Observações Finais:</string>
     <string name="enviar">Enviar a solicitação</string>
+    <string name="CEP">Informe o CEP:</string>
+    <string name="buscarcep">Consultar CEP</string>
+    <string name="resultadocep">Resultado do CEP: </string>
+    <string name="consulte">Consulte suas Solicitações</string>
+    <string name="numerodasol">Número</string>
+    <string name="datadasol">Data do Agendamento</string>
+    <string name="statusdasol">Status</string>
+    <string name="editarsol">Editar</string>
+    <string name="salvarsol">Salvar</string>
 
 
 

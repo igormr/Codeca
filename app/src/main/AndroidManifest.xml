@@ -21,6 +21,9 @@
             android:name=".Login"
             android:exported="false"/>
         <activity
+            android:name=".Consultar"
+            android:exported="false"/>
+        <activity
             android:name=".Nova"
             android:exported="true">
 
